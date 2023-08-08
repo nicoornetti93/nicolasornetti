@@ -1,0 +1,4 @@
+- 👋 Hola, mi nombre es Nicolas Ornetti, tengo 19 años y soy de Argentina.
+- 👀 Me interesa un monton la programacion y todo lo que este relacionado. 
+- 🌱 Actualmente estoy cursando la carrera de licenciado en sistemas en la Facultad de Ciencias de la Administracion (Uner).
+- 📫 Se pueden contactar conmigo mediante mi correo: nicoornetti@gmail.com
